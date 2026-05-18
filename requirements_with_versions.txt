@@ -79,7 +79,7 @@ pywhatkit==5.4
 mutagen==1.47.0
 Unidecode==1.4.0
 Ball==0.2.9
-pynput==1.8.1
+pynput==1.8.2
 gTTS==2.5.4
 ccxt==4.5.31
 fitz==0.0.1.dev2
